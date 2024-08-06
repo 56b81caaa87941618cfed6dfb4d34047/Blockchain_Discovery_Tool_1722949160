@@ -4,5 +4,6 @@
     "project_description": "add an app to find new blockchain information",
     "creation_time": "2024-08-06 12:59:20.338801",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The image features a vibrant, surreal landscape with a color scheme predominantly in shades of pink, purple, and black, showcasing a cosmic scene with futuristic-style elements such as planets and stylized mountains. The overall aesthetic conveys a sense of fantasy and otherworldliness."
 }
